@@ -1,4 +1,4 @@
-# Soluion Description
+# Solution Description
 
 The solution helps to add or subtract days excluding weekends and holidays. The solution consists of a child power automate flow which can be reused in your flows after import.
 
